@@ -1,5 +1,5 @@
 <?php
-if(!file_exists('include/config.php')) require_once('installer.php');
+//if(!file_exists('include/config.php')) require_once('installer.php');
 include_once "header.php";
 
 if(file_exists('include/url_routes.php')) {
